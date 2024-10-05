@@ -26,8 +26,8 @@ public class Main {
         System.out.println("Programa que imprime la presentación de dos personas: su nombre y edad.");
 
         // Crear objetos de la clase Persona
-        Persona persona1 = new Persona("Juan", 34, "Masculino");
-        Persona persona2 = new Persona("Carmen", 28, "Femenino");
+        Persona persona1 = new Persona("Luis", 34, "Masculino");
+        Persona persona2 = new Persona("Ana", 28, "Femenino");
 
         // Llamar al metodo presentarse
         persona1.presentarse();

@@ -28,6 +28,7 @@ public class Main {
         Libro libro2 = new Libro("Don Quijote de la Mancha", "Miguel de Cervantes", 1023);
         Libro libro1 = new Libro("Cien años de soledad", "Gabriel García Márquez", 417);
 
+
         // Mostrar información de los libros
         System.out.println(libro1.infoLibro());
         System.out.println(libro2.infoLibro());

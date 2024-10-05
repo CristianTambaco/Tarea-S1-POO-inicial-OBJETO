@@ -1,6 +1,7 @@
 Prácticas:
 
 •	Programa que imprime la presentación de dos personas: su nombre y edad.
+
 •	Programa que imprime el detalle de 2 libros: Título, Autor y Número de páginas.
 
 Práctica 1: Crear una clase Persona

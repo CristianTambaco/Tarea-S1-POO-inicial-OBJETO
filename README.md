@@ -26,6 +26,6 @@ información del libro en el formato: "Título: [título], Autor: [autor], Pági
 información usando el método infoLibro().
 
 
-Para ejecutar hay que descargar las carpetas presionando en el botón “<>Code” y seleccionar “Download ZIP”, extraer cualquiera de las carpetas con todo su contenido. Ejecutar la aplicación “INTELLIJ IDEA Community Edition 2024.2.3”, presionar en el boton “open” y buscar la carpeta extraída, presionar Ok, buscar la carpeta “src”, seleccionar el archivo Main.java y ejecutar el archivo Main.
+Para ejecutar hay que descargar las carpetas presionando en el botón “<>Code” y seleccionar “Download ZIP”, extraer cualquiera de las carpetas con todo su contenido. Ejecutar la aplicación “INTELLIJ IDEA Community Edition 2024.2.3”, presionar en el boton “open” y buscar la carpeta extraída, presionar Ok, buscar la carpeta “src”, seleccionar el archivo Main.java y ejecutar el archivo Main presionando "play".
 
 
